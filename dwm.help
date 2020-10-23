@@ -1,0 +1,45 @@
+            
+	 MODKEY + d                # dmenu                         
+	 MODKEY + Return           # terminal          
+	 MODKEY + s                # togglescratch      
+	 MODKEY + w                # web browser          
+	 MODKEY + e                # pcmanfm       
+	 MODKEY + b                # togglebar     
+	 MODKEY + Shift + j        # rotatestack    
+	 MODKEY + Shift + k        # rotatestack    
+	 MODKEY + j                # focus node     
+	 MODKEY + k                # focus node     
+	 MODKEY + i                # horizontal     
+	 MODKEY + Shift + i        # horizontal reverse     
+	 MODKEY + h                # expand window left       
+	 MODKEY + l                # expand window right    
+	 MODKEY + space            # move window to largest node      
+   MODKEY + q                # killclient     
+	 MODKEY + t                # tile mode      
+	 MODKEY + shift + f        # float mode      
+	 MODKEY + m                # monocle      
+	 MODKEY + f                # fullscreen   
+	 MODKEY + Tab              # view_adjacent  
+	 MODKEY + grave            # view_adjacent 
+	 MODKEY	+ Page_Up          # view_adjacent
+	 MODKEY	+ Page_Down	       # view_adjacent
+	 MODKEY + Shift + Return   # setlayout
+	 MODKEY + Shift + space    # togglefloating
+	 MODKEY + 0                # view          
+	 MODKEY + Shift + 0        # tag           
+	 MODKEY + comma            # move to monitor     
+	 MODKEY + period           # move to monitor     
+	 MODKEY + Shift + comma    # move window to monitor        
+	 MODKEY + Shift + period   # move window to monitor        
+   MODKEY + c                # geany
+   MODKEY + v                # VScode
+   MODKEY + shift  + c       # galculator
+	 MODKEY + Shift + h     	 # top
+   MODKEY + Mod1  + e        # dmenu-edit-config
+   MODKEY	+ minus  	         # volume + 5
+	 MODKEY + Shift + minus    # volume + 15  
+	 MODKEY	+ equal  	         # volume -5  
+	 MODKEY + Shift + equal    # volume - 15   
+	 MODKEY + Shift + z        # quit          
+	 MODKEY + Shift + q        # exit menu
+  
