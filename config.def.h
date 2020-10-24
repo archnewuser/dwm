@@ -104,6 +104,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_space,  zoom,           {0} },
 	{ MODKEY,		        XK_grave,  shiftview,	   { .i = -1 } },
 	{ MODKEY,	                XK_Tab,    shiftview,	   { .i = 1 } },
+	{ MODKEY,		        XK_Page_Up,  shiftview,	   { .i = -1 } },
+	{ MODKEY,	                XK_Page_Down, shiftview,	   { .i = 1 } },
 	/*{ MODKEY,                     XK_Tab,    view,           {0} },*/
 	{ MODKEY,                       XK_q,      killclient,     {0} },
 	{ MODKEY,			XK_t,	   setlayout,	   {.v = &layouts[0]} }, /* tile */
