@@ -1,0 +1,58 @@
+            
+	 MODKEY + d                # dmenu                         
+	 MODKEY + Return           # terminal          
+	 MODKEY + s                # togglescratch      
+	 MODKEY + w                # web browser          
+	 MODKEY + e                # pcmanfm       
+   MODKEY + c                # geany
+   MODKEY + v                # VScode
+   MODKEY + shift  + c       # galculator
+	 MODKEY + Shift + h     	 # top
+   MODKEY + Mod1  + e        # dmenu-edit-config
+   MODKEY + shift  + c       # galculator
+	 MODKEY + Shift + h     	 # top
+   MODKEY + Mod1  + e        # dmenu-edit-config
+   MODKEY + shift  + c       # galculator
+	 MODKEY + Shift + h     	 # top
+   MODKEY + Mod1  + e        # dmenu-edit-config
+	 MODKEY + b                # togglebar     
+	 MODKEY + Shift + j        # rotatestack    
+	 MODKEY + Shift + k        # rotatestack    
+	 MODKEY + j                # focus node     
+	 MODKEY + k                # focus node     
+	 MODKEY + o                # horizontal     
+	 MODKEY + Shift + o        # horizontal reverse     
+	 MODKEY + h                # expand window left       
+	 MODKEY + l                # expand window right    
+	 MODKEY + space            # move window to largest node      
+   MODKEY + q                # killclient 
+	 MODKEY + t                # tile mode  i
+   MODKEY + shift + t        # bstack
+   MODKEY + y                # spiral
+   MODKEY + shift + y        # dwindle
+   MODKEY + u                # deck
+   MODKEY + shift +u         # monocle
+   MODKEY + i                # center master
+   MODKEY + shift + i        # center floating master
+	 MODKEY + shift + f        # float mode           
+	 MODKEY + f                # fullscreen   
+	 MODKEY + Tab              # view_adjacent  
+	 MODKEY + grave            # view_adjacent 
+	 MODKEY	+ Page_Up          # view_adjacent
+	 MODKEY	+ Page_Down	       # view_adjacent
+	 MODKEY + Shift + Return   # setlayout
+	 MODKEY + Shift + space    # togglefloating
+	 MODKEY + 0                # view all tags         
+	 MODKEY + Shift + 0        # tag           
+	 MODKEY + comma            # move to monitor     
+	 MODKEY + period           # move to monitor     
+	 MODKEY + Shift + comma    # move window to monitor        
+	 MODKEY + Shift + period   # move window to monitor        
+   MODKEY	+ minus  	         # volume + 5
+	 MODKEY + Shift + minus    # volume + 15  
+	 MODKEY	+ equal  	         # volume -5  
+	 MODKEY + Shift + equal    # volume - 15   
+	 MODKEY + Shift + z        # quit          
+   MODKEY + Shift + backspace # exit menu
+	 MODKEY + Shift + q        # exit menu
+  
